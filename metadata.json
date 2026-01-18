@@ -1,0 +1,8 @@
+
+{
+  "name": "Espace Réservation Repentigny",
+  "description": "Une application moderne et élégante pour la gestion et la prise de réservations à distance, dédiée à l'établissement du 340 Rue Notre-Dame.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
